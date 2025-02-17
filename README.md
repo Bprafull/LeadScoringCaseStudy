@@ -1,10 +1,10 @@
 # LeadScoringCaseStudy
 
-## Details of files
-1. Python file - included all the detailed data analysis
-2. PPT pdf file
-3. Summary pdf file
-4. Subjective Questions file
+## Details of files present in this project
+1. lead_scoring_case_study.ipynb - Jupyter notebook included all the detailed data analysis
+2. PPT_Lead_Scoring_Project.pdf - PPT pdf file
+3. Summary_file.pdf - Summary pdf file
+4. Assignment Subjective Questions.docx - Subjective Questions file
 
 ## Solution Steps Followed
 
