@@ -25,7 +25,7 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 
 ## Summary
  
- Step1: Reading and Understanding Data. Read and analyses the data.  
+ • Step1: Reading and Understanding Data. Read and analyses the data.  
  
 • Step2: Data Cleaning:  We dropped the variables that had high percentage of NULL 
 values in them. This step also included imputing the missing values as and where 
