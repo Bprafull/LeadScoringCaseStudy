@@ -1,6 +1,12 @@
 # LeadScoringCaseStudy
 
-## Steps Followed
+## Details of files
+1. Python file - included all the detailed data analysis
+2. PPT pdf file
+3. Summary pdf file
+4. Subjective Questions file
+
+## Solution Steps Followed
 
 1. Reading and Cleaning Data
 2. EDA
